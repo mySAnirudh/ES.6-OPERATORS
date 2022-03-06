@@ -1,0 +1,20 @@
+
+
+    **** ES-6 :- OPERATORS ****
+
+    An expression is a special kind of statement that evaluates to a value. Every expression 
+is composed of:
+ Operands: Represents the data.
+ Operator: Defines how the operands will be processed to produce a value.
+Consider the following expression- 2 + 3. Here in the expression, 2 and 3 are operands 
+and the symbol + (plus) is the operator. JavaScript supports the following types of 
+operators:
+ Arithmetic operators
+ Logical operators
+ Relational operators
+ Bitwise operators
+ Assignment operators
+ Ternary/conditional operators
+ String operators
+ Type operators
+ The void operator
